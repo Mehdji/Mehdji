@@ -1,5 +1,5 @@
-
-👋 Hi there, I'm Mehdji  
+<div align="center">
+<h1>👋 Hi there, I'm Mehdji </h1> 
 🚀 About Me  
 
 🔭 I'm currently working on web development  
@@ -15,8 +15,10 @@
 
 
 👯 I'm looking to collaborate on Web apllication. 
-<HR ALIGN=CENTER WIDTH="100">
-🛠️ Technologies & Tools  
+
+
+## 🛠️ Technologies & Tools
+
 #### Development Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
@@ -46,27 +48,32 @@
 ![ANSSI](https://img.shields.io/badge/ANSSI-%23000E7A.svg?style=for-the-badge&logo=shield&logoColor=white) <!-- "shield" pour symboliser la sécurité -->
 ![Agile](https://img.shields.io/badge/Agile-%2300ADD8.svg?style=for-the-badge&logo=people&logoColor=white) <!-- "people" pour symboliser l'aspect collaboratif de l'Agile -->
 <HR ALIGN=CENTER WIDTH="100">
-📊 GitHub Stats  
+
+## 📊 GitHub Stats  
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehdji&show_icons=true&theme=tokyonight)
 
-🔥 Streak Stats 
+## 🔥 Streak Stats 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mehdji)](https://git.io/streak-stats) 
 
-🗂️ Featured Projects 
+## 🗂️ Featured Projects 
 
 
 <a href="https://github.com/Mehdji/Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mehdji&repo=Python&theme=radical" />
 </a>
 
-🤝 Connect with Me
+## 💻 Code stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdji&layout=compact&text_color=FFFFFF\&bg_color=151515)
+
+## 🤝 Connect with Me
 
 
-<div align="left">
+<div align="center">
   <a href="https://x.com/Mehdji87" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow @Mehdji87-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
@@ -79,5 +86,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mehdi Naoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
+</div>
 
